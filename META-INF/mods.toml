@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[45,)"
+license="Creative Commons Attribution-NonCommercial 3.0"
+
+[[mods]]
+modId="true_wasteland"
+version="1.0.0"
+displayName="True Wasteland"
+credits="Created by Flame"
+displayURL="https://mcreator.net"
+authors="Flame"
+description="True wasteland world generation for you"
+
+[[dependencies.true_wasteland]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
