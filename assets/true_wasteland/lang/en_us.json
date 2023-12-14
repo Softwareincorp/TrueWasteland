@@ -1,7 +1,3 @@
 {
-  "biome.true_wasteland.wasteland": "Wasteland",
-  "gamerule.removeWater.description": "Remove all water from the world",
-  "gamerule.removeWater": "Remove Water",
-  "entity.true_wasteland.in_water_check": "In Water Check",
-  "biome.test.wasteland": "Wasteland"
+  "biome.true_wasteland.wasteland": "Wasteland"
 }
